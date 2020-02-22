@@ -1,2 +1,2 @@
 # Life-of-Py
-A repository in support to my python project
+Over time I am looking forward to growing the reach of my project, include as many coders as possible. Well, because I love to share the python concepts, create a learner project for new bees such as me to learn from experimenting. I am creating this repository in support of my Life of Py project. I made this public to involve coders and invite them to participate in making the project better.
