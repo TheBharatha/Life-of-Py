@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # Configuration file
-Life-of-Py/config.py
+config.py
