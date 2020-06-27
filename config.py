@@ -1,2 +1,0 @@
-GITHUB_USERNAME = 'BharathKumarS'
-GITHUB_TOKEN = 'ace860b4325c7feae0f012cef2d30c17e6950ffc'
