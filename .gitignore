@@ -131,3 +131,4 @@ dmypy.json
 # Configuration file
 ~/config.py
 config.py
+.DS_Store
