@@ -134,3 +134,4 @@ config.py
 .DS_Store
 MLAPI/.vscode/settings.json
 *.zip
+*.gz
